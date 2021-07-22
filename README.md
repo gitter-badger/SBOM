@@ -1,5 +1,7 @@
 # SBOM 
 
+[![Join the chat at https://gitter.im/SwiftBOM/community](https://badges.gitter.im/SwiftBOM/community.svg)](https://gitter.im/SwiftBOM/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A "Software Bill of Materials" (SBOM) is effectively a nested inventory, a list of ingredients that make up software components.  You can learn more about SBOM at [https://www.ntia.gov/sbom](https://www.ntia.gov/sbom). There are several links to community developed documents in the NTIA's website.
 
 SwiftBOM a SBOM generator tool [here](./sbom-demo/) is part of CERT's work in supporting SBOM generation efforts for Proof-of-Concepts and Demo purposes.  This tool is currently being explored by  [Healthcare Proof of Concept](https://www.ntia.gov/files/ntia/publications/ntia_sbom_healthcare_poc_report_2019_1001.pdf) teams for their PoC efforts. 
